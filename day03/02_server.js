@@ -7,3 +7,5 @@ var server = http.createServer(function(req,res){
 });
 //3.开启监听,端口号为4000
 server.listen(4000);
+
+
